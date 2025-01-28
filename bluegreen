@@ -1,0 +1,1 @@
+This project demonstrates how to implement Blue-Green Deployment using AWS services to ensure seamless application updates with zero downtime. The deployment process leverages EC2 instances, Application Load Balancers, and Target Groups to manage traffic and application updates efficiently.
